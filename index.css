@@ -5,8 +5,9 @@
 }
 
 body {
-  background-image: url(https://dbkpop.com/wp-content/uploads/2022/06/loona_flip_that_teaser_all_group.jpg);
-  background-position: center;
+  background-image: url(https://i.pinimg.com/originals/1f/3b/5e/1f3b5e900a78eb37e3ab210c3766d182.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
   color: white;
   text-align: center;
   font-family: sans-serif;
@@ -25,6 +26,7 @@ h1 {
   opacity: 0.9;
 
 }
+
 img {
   width: 400px;
 
